@@ -1,4 +1,4 @@
-# GEnZave Product Research
+# GenZave Product Research
 
 ![Logo Image](logo-color.png)
 
